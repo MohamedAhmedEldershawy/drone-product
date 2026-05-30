@@ -30,6 +30,3 @@ https://github.com/user-attachments/assets/a8fc3f2b-583d-40d2-af02-462799c5b049
 
 The main challenge in this project was building and styling the product comparison table while maintaining a clean layout using Flexbox and CSS positioning.
 
-## 👨‍💻 Author
-
-Mohamed Ahmed Eldershawy
