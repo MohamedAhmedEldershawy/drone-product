@@ -1,6 +1,6 @@
 # 🚁 Premium Drone Landing Page
 
-A product landing page built with HTML5 and CSS3 for showcasing a drone and its specifications.
+A product landing page built with HTML5 and CSS for showcasing a drone and its specifications.
 
 ## 🎥 Demo
 
@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/a8fc3f2b-583d-40d2-af02-462799c5b049
 ## 🛠️ Technologies Used
 
 * HTML5
-* CSS3
+* CSS
 * Flexbox
 * CSS Positioning
 
